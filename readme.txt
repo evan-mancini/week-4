@@ -10,5 +10,4 @@ I also used this assignment as an opporunity to practice importing geojson data 
 
 More to come!
 
-Sources: 
-    https://www.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
+Data source: https://www.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
