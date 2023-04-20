@@ -11,13 +11,13 @@ body {
   }
   
   .sidebar {
-    position: absolute;
+    position: fixed;
     top: 20px;
-    left: -1px;
-    width: 250px;
+    left: none;
+    width: 400px;
     z-index: 10;
     background: #969696;
-    padding: 20px;
+    padding: 10px;
     box-sizing: border-box;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 15px;
@@ -25,7 +25,7 @@ body {
     border-top: 1px solid #ddd;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
-    border-left: 0px;
+    border-left: none;
     box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.5);
     margin-bottom: 20px;
   }
